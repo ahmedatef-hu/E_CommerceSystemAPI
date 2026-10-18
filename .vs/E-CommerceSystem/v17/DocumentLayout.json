@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\repos\\implementations\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\repos\\implementations\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\repos\\interfaces\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\repos\\interfaces\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\order\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\order\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\order\\getorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\order\\getorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\order\\getorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\order\\getorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\order\\totalrevenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\order\\totalrevenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\repos\\implementations\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\repos\\implementations\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\mapping\\modelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\mapping\\modelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\repos\\interfaces\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\repos\\interfaces\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\repos\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\repos\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\jwt\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\jwt\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\jwt\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\jwt\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\e-commercesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\e-commercesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Migrations\\20261018171751_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-CommerceSystem\\Migrations\\20261018171751_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|c:\\users\\el rawad\\source\\repos\\e-commercesystem\\e-commercesystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89942E76-0574-4BD4-951A-4D37CE82AEB1}|E-CommerceSystem\\E-CommerceSystem.csproj|solutionrelative:e-commercesystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ordersController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Controllers\\ordersController.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Controllers\\ordersController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Controllers\\ordersController.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Controllers\\ordersController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAvwFQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:19:43.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetOrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\GetOrderItemDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Order\\GetOrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\GetOrderItemDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Order\\GetOrderItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:18:46.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\CreateOrderItemDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Order\\CreateOrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\CreateOrderItemDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Order\\CreateOrderItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:16:12.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Order\\CreateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\CreateOrderDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Order\\CreateOrderDTO.cs",
+              "ViewState": "AgIAAAIAAADAZmZmZmbmvwoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:15:56.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\UnitOFWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\UnitOFWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\UnitOFWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "E-CommerceSystem\\UnitOFWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:20:30.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\UnitOFWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\UnitOFWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\UnitOFWork\\UnitOfWork.cs",
+              "RelativeToolTip": "E-CommerceSystem\\UnitOFWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAC+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:20:23.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Interfaces\\IOrderRepo.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Repos\\Interfaces\\IOrderRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Interfaces\\IOrderRepo.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Repos\\Interfaces\\IOrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:04:58.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Implementations\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Repos\\Implementations\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Implementations\\OrderRepo.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Repos\\Implementations\\OrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:04:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\GetOrderDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Order\\GetOrderDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\GetOrderDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Order\\GetOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:16:20.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TotalRevenueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\TotalRevenueDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Order\\TotalRevenueDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Order\\TotalRevenueDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Order\\TotalRevenueDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T19:07:09.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\Order.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:03:49.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\OrderItem.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:04:54.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "productsController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Controllers\\productsController.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Controllers\\productsController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Controllers\\productsController.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Controllers\\productsController.cs",
+              "ViewState": "AgIAABoAAAAAQGZmZmbmvysAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:28:56.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Mapping\\ModelProfile.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Mapping\\ModelProfile.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Mapping\\ModelProfile.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Mapping\\ModelProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:27:15.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Product\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Product\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Product\\CreateProductDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Product\\CreateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:25:59.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Program.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Program.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Program.cs",
+              "ViewState": "AgIAAAkAAACAZGZmZmYKwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:14:44.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Implementations\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Repos\\Implementations\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Implementations\\ProductRepo.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Repos\\Implementations\\ProductRepo.cs",
+              "ViewState": "AgIAAB4AAACAJzMzMzMfwCkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:11:42.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Product\\GetProductDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Product\\GetProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:26:06.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Interfaces\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Repos\\Interfaces\\IProductRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Interfaces\\IProductRepo.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Repos\\Interfaces\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:11:49.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "categoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Controllers\\categoriesController.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Controllers\\categoriesController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Controllers\\categoriesController.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Controllers\\categoriesController.cs",
+              "ViewState": "AgIAAAkAAAAg//////8jwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:05:18.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:08:43.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\Product.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:01:58.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Category\\GetCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Category\\GetCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:08:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Repos\\Implementations\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:59:12.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:59:21.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "authController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Controllers\\authController.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Controllers\\authController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Controllers\\authController.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Controllers\\authController.cs",
+              "ViewState": "AgIAAAsAAABomZmZmZk3wC0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:43:09.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\Category.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:00:36.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Auth\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Auth\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:23:04.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\JWT\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\JWT\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\JWT\\AuthRepo.cs",
+              "RelativeToolTip": "E-CommerceSystem\\JWT\\AuthRepo.cs",
+              "ViewState": "AgIAACYAAAAAJjMzMzPzv0QAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:18:54.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Models\\User.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T16:58:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\appsettings.json",
+              "RelativeToolTip": "E-CommerceSystem\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-18T17:13:55.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\JWT\\IAuthRepo.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\JWT\\IAuthRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\JWT\\IAuthRepo.cs",
+              "RelativeToolTip": "E-CommerceSystem\\JWT\\IAuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:18:45.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\DTOs\\Auth\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "E-CommerceSystem\\DTOs\\Auth\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:23:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "E-CommerceSystem",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\E-CommerceSystem.csproj",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\E-CommerceSystem.csproj",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\E-CommerceSystem.csproj",
+              "RelativeToolTip": "E-CommerceSystem\\E-CommerceSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-18T17:18:20.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20261018171751_init.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Migrations\\20261018171751_init.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Migrations\\20261018171751_init.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Migrations\\20261018171751_init.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Migrations\\20261018171751_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:17:51.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "E-CommerceSystem\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\E-CommerceSystem\\E-CommerceSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "E-CommerceSystem\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAABQZmZmZmY8wBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T17:09:43.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
